@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+/vendor/
+/*.log
+*.bak*
+*.auth-backup
+*.security-backup
+*.password-backup
+*.before_sources
